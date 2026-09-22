@@ -13,6 +13,6 @@ jobs:
     steps:
       - name: step-2 from job-2
         run: echo "Hello, from job 2 "
-       - name: step-3 from job-2
+      - name: step-3 from job-2
         run: echo "Hello, from job 3 "
 
